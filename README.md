@@ -11,3 +11,12 @@ You can view the website live here: [https://swathy024.github.io/portfolio-site]
 
 ## 📁 Project Structure
 
+portfolio-site/
+│
+├── index.html # Landing / Header section
+├── style.css # Complete styling and responsive design
+├── images/ # Contains images like logo, background, profile photo
+│ ├── logo.JPG
+│ ├── user.JPG
+├── script.js
+└── README.md # Project description and setup guide
